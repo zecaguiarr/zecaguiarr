@@ -37,7 +37,8 @@ I enjoy working on complex backend problems and turning legacy or tightly couple
 
 ## 🚀 Current Project
 
-### [Subscription Platform API](https://github.com/zecaguiar/subscription-platform-api)
+### [Subscription Platform API](https://github.com/zecaguiarr/subscription-platform-api)
+                             
 
 A backend-focused subscription management API built with **.NET 10, PostgreSQL and Redis**.
 
