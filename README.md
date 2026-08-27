@@ -7,32 +7,12 @@ My main focus is **C#, .NET, backend development, REST APIs and SQL**. Throughou
 I enjoy working on complex backend problems and turning legacy or tightly coupled systems into solutions that are easier to maintain, test and evolve.
 
 ## 🛠 Tech
-
-**Backend**
-- C#
-- .NET / ASP.NET Core
-- REST APIs
-- Entity Framework Core
-
-**Data**
-- SQL Server
-- PostgreSQL
-- Redis
-
-**Frontend**
-- Vue.js
-- Angular
-- React
-- JavaScript / TypeScript
-- HTML / CSS
-
-**Engineering**
-- Docker
-- Git / GitHub
-- CI/CD
-- Automated Testing
-- Clean Architecture
-- SOLID
+ 
+**Backend**                   **Data**           **Frontend**                   **Engineering**
+- C#                          - SQL Server       - Vue.js                       - Docker
+- .NET / ASP.NET Core         - PostgreSQL       - Angular                      - CI/CD
+- REST APIs                   - Redis            - React                        - Automated Testing
+- Entity Framework Core                          - JavaScript / TypeScript      - Clean Architecture
 
 ## 🚀 Current Project
 
